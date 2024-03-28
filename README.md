@@ -1,5 +1,3 @@
-# Python
-#Coffee Machine
 MENU = {
     "espresso": {
         "ingredients": {
